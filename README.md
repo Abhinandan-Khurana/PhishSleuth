@@ -14,6 +14,16 @@ AI-enabled Phishing link Detection and Alert System.
 <p>
 With the increasing number of crime the crime detection tools has also increased at an alarming rate.On the 3rd of March, the economic times of India mentioned that:- 
                 About 30 crore people are vulnerable to phishing attacks in India, of which 5 lakh potentially fall prey to scamsters.That's why we came up with the idea of PhishSleuth.It is a Phishing Links Detection and Alert system is to help individuals and organizations protect themselves from phising attacks. Phishing attacks are a common and growing threat to personal and business security, and they can result in the loss of sensitive information, financial loss, and other consequences. BY developing a solution that can detect and alert users of potential phishing attacks across vsrious digital channels, we can provide an additional layer of security and protection attacks across various digital channels, we can provide an additional layer of security and protection. Ultimately, the goal of developing  a solution like this is to empower individuals and organixations to protect themselves from phishing attacks and minimize the risk of data breaches, financial loss, and other negative consequences.
+  
+  <div style="display: flex; justify-content: left;">
+   <img src="https://iili.io/Hk8lARs.md.png" alt="Description of image 2" style="width: 1068px; height: 453px; margin-right: 30px;">
+   <img src="https://iili.io/Hk8luJn.md.png" alt="Description of image 3" style="width: 1068px; height: 453px;">
+   <img src="https://iili.io/Hk8cWnp.md.png"  alt="Description of image 3" style="width: 515px; height: 573px;">
+    <img src="https://iili.io/Hk8MaFp.md.png" alt="Description of image 2" style="width: 768px; height: 342px; margin-right: 10px;">
+   </div>
+   <div style="display: flex; justify-content: left;">
+  </div>
+
 </p>
 <h2>Installation</h2>
 <ol>
