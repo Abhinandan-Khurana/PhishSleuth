@@ -18,7 +18,7 @@ With the increasing number of crime the crime detection tools has also increased
   <div style="display: flex; justify-content: centre;">
    <img src="https://iili.io/Hk8lARs.md.png" alt="Description of image 2" style="width: 1068px; height: 453px; margin-right: 30px;">
    <img src="https://iili.io/Hk8luJn.md.png" alt="Description of image 3" style="width: 1068px; height: 453px;">
-   <img src="https://iili.io/Hk8cWnp.md.png"  alt="Description of image 3" style="width: 515px; height: 573px;">
+   <img src="https://iili.io/Hk8cWnp.md.png"  alt="Description of image 3" style="width: 515px; height: 573px;"><br>
     <img src="https://iili.io/Hk8MaFp.md.png" alt="Description of image 2" style="width: 768px; height: 342px; margin-right: 10px;">
    </div>
    <div style="display: flex; justify-content: left;">
