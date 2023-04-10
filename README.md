@@ -1,4 +1,4 @@
-<a href="https://freeimage.host/"><img src="https://iili.io/Hk8jhaR.png" alt="Hk8jhaR.png" border="0"></a><br /><a target='_blank' href='https://freeimage.host/'></a><br />
+<img src="https://media.giphy.com/media/K2tvILlPkiiX3gD7cl/giphy.gif" alt="GIF example">
 
 AI-enabled Phishing link Detection and Alert System.
 <h1>Table of content </h1>
