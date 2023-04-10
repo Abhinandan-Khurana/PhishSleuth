@@ -2,9 +2,12 @@
 AI-enabled Phishing link Detection and Alert System.
 <h1>Table of content </h1>
 <ul>
-<li>Introduction</li>
-<li>Insallation</li>
-<li>Directory Tree</li>
+<li>Introduction.</li>
+<li>Insallation.</li>
+<li>Directory Tree.</li>
+<li>Terminology used<.li>
+<li>Result.</li>
+<li>Conclusion.</li>
 </ul>
 <h2>INTRODUCTION</h2>
 <p>
@@ -20,4 +23,94 @@ With the increasing number of crime the crime detection tools has also increased
 </ol>
 
 <h2>Directory tree</h2>
-<p>pending</p>
+<p>
+|-artifacts<br>
+|-backend<br>
+|    |-classifier<br>
+|    |-datasets<br>
+|-frontend<br>
+|   |-icons<br>
+|   |-js<br>
+|   |-manifest.json<br>
+|   |-plugin_ui.css<br>
+|   |-plugin_ui.html<br>
+|   |-tempstorage.json<br>
+|   |-test.html<br>
+|-README.md<br>
+|-static<br>
+|   |-classifier.json<br>
+|   |-testdata.json</p>
+
+
+<h3>Terminology Used</h3>
+<p><ul>
+<li>Support Vector Machine (SVM)-<br>Support vector machines (SVMs) is used for theclassi¿cation of both linear and nonlinear data.</li>
+
+<li>Decision Tree-<br>A decision tree is a directed, acyclic graph with
+two types of nodes, namely; internal nodes that represents a test and terminal node holds a class label.</li>
+
+<li>K-Nearest Neighbour-<br>These are distance-based comparisons that intrinsically assign equal weights to each attribute.</li>
+<li>Rotation Forest (RoF)-<br> Rotation Forest (RoF) is an ensemble classifier in which the training data is created by randomly
+splitting the feature set into K subsets and Principal.</li>
+  <li>Component Analysis (PCA) is applied to each subset for any base classifier.</li>
+
+<li>Random Forests (RF)-<br>Random Forests can be built in tandem with random attribute selection using bagging. Random Forests follow an ensemble approach to learning, that is a divide and
+  conquer approach for improving performance.</li>
+</ul></p>
+
+<h3>Result </h3>
+<p>Accuracy of various model used for Phishing detection</p>
+<table>
+  <tr>
+    <th></th>
+    <th>ML Model</th>
+    <th>Accuracy</th>
+    <th>f1_score</th>
+    <th>Recall</th>
+    <th>Precision</th>
+  </tr>
+  <tr>
+     <td>0</td>
+     <td>Rotation Forest (RoF)</td>
+     <td></td>
+     <td></td>
+     <td></td>
+     <td></td>
+  </tr>
+   <tr>
+     <td>1</td>
+     <td>Random Forests(RF)</td>
+     <td></td>
+     <td></td>
+     <td></td>
+     <td></td>
+  </tr>
+   <tr>
+     <td>3</td>
+     <td>	Support Vector Machine</td>
+     <td></td>
+     <td></td>
+     <td></td>
+     <td></td>
+  </tr>
+   <tr>
+     <td>4</td>
+     <td>Decision Tree</td>
+     <td></td>
+     <td></td>
+     <td></td>
+     <td></td>
+  </tr>
+  <tr>
+     <td>5</td>
+     <td>K-Nearest Neighbour</td>
+     <td></td>
+     <td></td>
+     <td></td>
+     <td></td>
+  </tr>
+  
+ </table>
+ <h3>Conclusion</h3>
+ <p>The final take away form this project is to explore various machine learning models, perform Exploratory Data Analysis on phishing dataset and understanding their features.
+Gradient Boosting Classifier currectly classify URL upto 95.6% respective classes and hence reduces the chance of malicious attachments.</p>
