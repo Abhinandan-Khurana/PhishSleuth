@@ -25,7 +25,6 @@ With the increasing number of crime the crime detection tools has also increased
 
 <h2>Directory tree</h2>
 <p>
-|-artifacts<br>
 |-backend<br>
 |    |-classifier<br>
 |    |-datasets<br>
@@ -37,7 +36,6 @@ With the increasing number of crime the crime detection tools has also increased
 |   |-plugin_ui.html<br>
 |   |-tempstorage.json<br>
 |   |-test.html<br>
-|-README.md<br>
 |-static<br>
 |   |-classifier.json<br>
 |   |-testdata.json</p>
