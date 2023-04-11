@@ -35,20 +35,31 @@ With the increasing number of crime the crime detection tools has also increased
 
 <h2>Directory tree</h2>
 <p>
-|-backend<br>
-|    |-classifier<br>
-|    |-datasets<br>
 |-frontend<br>
-|   |-icons<br>
-|   |-js<br>
-|   |-manifest.json<br>
-|   |-plugin_ui.css<br>
-|   |-plugin_ui.html<br>
-|   |-tempstorage.json<br>
-|   |-test.html<br>
-|-static<br>
-|   |-classifier.json<br>
-|   |-testdata.json</p>
+|    |-icons<br>
+|    |-js<br>
+|    |-main.js<br>
+|    |-manifest.json<br>
+|    |-plugin_ui.css<br>
+|    |-plugin_ui.html<br>
+|    |-style.css<br>
+|    |-tempstorage.json<br>
+|    |-test.html<br>  
+|-phish-api<br>
+|    |-Procfile<br>
+|    |-SVM_Model.pkl<br>
+|    |-manifest.json<br>
+|    |-Web_Scrapped_websites.csv<br>
+|    |-app.py<br>
+|    |-app.yaml<br>
+|-sms-email-spam-classifier-main<br>
+|    |-Procfile<br>
+|    |-app.py<br>
+|    |-model.pkl<br>
+|    |-setup.sh<br>
+|    |-sms-spam-detection.ipynb<br>
+|    |-spam.csv<br>
+|    |-vectorizer.pkl</p>
 
 
 <h3>Terminology Used</h3>
