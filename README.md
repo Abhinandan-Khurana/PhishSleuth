@@ -36,30 +36,30 @@ With the increasing number of crime the crime detection tools has also increased
 <h2>Directory tree</h2>
 <p>
 |-frontend<br>
-|    |-icons<br>
-|    |-js<br>
-|    |-main.js<br>
-|    |-manifest.json<br>
-|    |-plugin_ui.css<br>
-|    |-plugin_ui.html<br>
-|    |-style.css<br>
-|    |-tempstorage.json<br>
-|    |-test.html<br>  
+&ensp;&ensp; ||-icons<br>
+&ensp;&ensp; ||-js<br>
+&ensp;&ensp; ||-main.js<br>
+&ensp;&ensp; ||-manifest.json<br>
+&ensp;&ensp; ||-plugin_ui.css<br>
+&ensp;&ensp; ||-plugin_ui.html<br>
+&ensp;&ensp; ||-style.css<br>
+&ensp;&ensp; ||-tempstorage.json<br>
+&ensp;&ensp; ||-test.html<br>  
 |-phish-api<br>
-|    |-Procfile<br>
-|    |-SVM_Model.pkl<br>
-|    |-manifest.json<br>
-|    |-Web_Scrapped_websites.csv<br>
-|    |-app.py<br>
-|    |-app.yaml<br>
+&ensp;&ensp; ||-Procfile<br>
+&ensp;&ensp; ||-SVM_Model.pkl<br>
+&ensp;&ensp; ||-manifest.json<br>
+&ensp;&ensp; ||-Web_Scrapped_websites.csv<br>
+&ensp;&ensp; ||-app.py<br>
+&ensp;&ensp; ||-app.yaml<br>
 |-sms-email-spam-classifier-main<br>
-|    |-Procfile<br>
-|    |-app.py<br>
-|    |-model.pkl<br>
-|    |-setup.sh<br>
-|    |-sms-spam-detection.ipynb<br>
-|    |-spam.csv<br>
-|    |-vectorizer.pkl</p>
+&ensp;&ensp; ||-Procfile<br>
+&ensp;&ensp; ||-app.py<br>
+&ensp;&ensp; ||-model.pkl<br>
+&ensp;&ensp; ||-setup.sh<br>
+&ensp;&ensp; ||-sms-spam-detection.ipynb<br>
+&ensp;&ensp; ||-spam.csv<br>
+&ensp;&ensp; ||-vectorizer.pkl</p>
 
 
 <h3>Terminology Used</h3>
