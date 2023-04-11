@@ -18,8 +18,6 @@
   "host_permissions": [
     "*://*/*"
   ],
-  "background": {
-    "service_worker": "js/background.js"
   },
   "action": {
     "default_popup": "plugin_ui.html",
