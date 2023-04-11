@@ -66,7 +66,7 @@
 // 	});
 //     });
 
-var background = chrome.extension.getBackgroundPage();
+// var background = chrome.extension.getBackgroundPage();
 const url = window.location.href;
 const el = document.getElementById("site_score");
 const el2 = document.getElementById("site_msg");
