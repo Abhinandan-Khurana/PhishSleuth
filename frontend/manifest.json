@@ -18,7 +18,9 @@
   "host_permissions": [
     "*://*/*"
   ],
-  },
+  "permissions": [
+    "tabs"
+],
   "action": {
     "default_popup": "plugin_ui.html",
     "default_icon": {
