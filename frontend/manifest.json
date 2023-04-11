@@ -37,8 +37,7 @@
         "https://*/*"
       ],
       "js": [
-        "js/jquery.js",
-        "js/features.js"
+        "js/jquery.js"
       ]
     }
   ]
