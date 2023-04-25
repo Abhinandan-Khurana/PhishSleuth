@@ -35,31 +35,53 @@ With the increasing number of crime the crime detection tools has also increased
 
 <h2>Directory tree</h2>
 <p>
-|-frontend<br>
-&ensp;&ensp; ||-icons<br>
-&ensp;&ensp; ||-js<br>
-&ensp;&ensp; ||-main.js<br>
-&ensp;&ensp; ||-manifest.json<br>
-&ensp;&ensp; ||-plugin_ui.css<br>
-&ensp;&ensp; ||-plugin_ui.html<br>
-&ensp;&ensp; ||-style.css<br>
-&ensp;&ensp; ||-tempstorage.json<br>
-&ensp;&ensp; ||-test.html<br>  
-|-phish-api<br>
-&ensp;&ensp; ||-Procfile<br>
-&ensp;&ensp; ||-SVM_Model.pkl<br>
-&ensp;&ensp; ||-manifest.json<br>
-&ensp;&ensp; ||-Web_Scrapped_websites.csv<br>
-&ensp;&ensp; ||-app.py<br>
-&ensp;&ensp; ||-app.yaml<br>
-|-sms-email-spam-classifier-main<br>
-&ensp;&ensp; ||-Procfile<br>
-&ensp;&ensp; ||-app.py<br>
-&ensp;&ensp; ||-model.pkl<br>
-&ensp;&ensp; ||-setup.sh<br>
-&ensp;&ensp; ||-sms-spam-detection.ipynb<br>
-&ensp;&ensp; ||-spam.csv<br>
-&ensp;&ensp; ||-vectorizer.pkl</p>
+  
+  
+  '''
+  ├── frontend
+│   ├── icons
+│   │   ├── 128x128.png
+│   │   ├── 16x16.png
+│   │   ├── 32x32.png
+│   │   ├── 48x48.png
+│   │   └── url_list.pdf
+│   ├── js
+│   │   ├── jquery.js
+│   │   └── plugin_ui.js
+│   ├── main.js
+│   ├── manifest.json
+│   ├── plugin_ui.css
+│   ├── plugin_ui.html
+│   ├── README.md
+│   ├── style.css
+│   ├── tempstorage.json
+│   └── test.html
+├── LICENSE
+├── phish-api
+│   ├── app.py
+│   ├── app.yaml
+│   ├── Procfile
+│   ├── __pycache__
+│   │   ├── app.cpython-310.pyc
+│   │   └── app.cpython-38.pyc
+│   ├── README.md
+│   ├── requirements.txt
+│   ├── SVM_Model.pkl
+│   └── Web_Scrapped_websites.csv
+├── README.md
+└── sms-email-spam-classifier-main
+    ├── app.py
+    ├── model.pkl
+    ├── nltk.txt
+    ├── Procfile
+    ├── requirements.txt
+    ├── setup.sh
+    ├── sms-spam-detection.ipynb
+    ├── spam.csv
+    └── vectorizer.pkl
+  
+  
+  '''
 
 
 <h3>Terminology Used</h3>
