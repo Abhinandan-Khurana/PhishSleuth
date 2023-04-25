@@ -37,7 +37,7 @@ With the increasing number of crime the crime detection tools has also increased
 <p>
   
   
-  '''
+  ```bash
   ├── frontend
 │   ├── icons
 │   │   ├── 128x128.png
@@ -81,7 +81,7 @@ With the increasing number of crime the crime detection tools has also increased
     └── vectorizer.pkl
   
   
-  '''
+  ```
 
 
 <h3>Terminology Used</h3>
